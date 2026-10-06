@@ -58,16 +58,16 @@ Proyecto de compras orientado a un establecimiento de comida
 Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando tengas el proyecto listo.)
 
 <p align="center">
-  <a href="https://TU_DEMO.vercel.app" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Compras_Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Compras_Frontend-Angular.git" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Compras_Frontend-Next.js.git" target="_blank">
     <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Compras_Docker.git" target="_blank">
     <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
@@ -78,7 +78,7 @@ Página de novios
 API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
 
 <p align="center">
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Pagina-de-novios.git" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
@@ -89,7 +89,7 @@ CRUD en Python
 Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
 
 <p align="center">
-  <a href="https://github.com/ErikSvardook/crud_python" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Agenda-de-contactos.git" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
@@ -100,16 +100,16 @@ Proyecto de compras orientado a una tienda
 API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
 
 <p align="center">
-  <a href="https://TU_DEMO.vercel.app" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Ventas_Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Ventas_Frontend.git" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
     <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+  <a href="https://github.com/Erik-Bot23/Ventas_Docker.git" target="_blank">
     <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
@@ -132,7 +132,7 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 </p>
 
 <p align="center">
-  <a href="mailto:TU_CORREO@ejemplo.com">
+  <a href="mailto:erikjarquin20@gmail.com">
     <img src="https://img.shields.io/badge/Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
