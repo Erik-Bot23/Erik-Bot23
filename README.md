@@ -54,9 +54,10 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
 </h2>
 
-Proyecto de compras orientado a un establecimiento de comida
-Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando tengas el proyecto listo.)
+<h2>Proyecto de compras orientado a un establecimiento de comida</h2>
+Aplicación para gestionar ventas construida con una arquitectura MVC con Spring Boot en el backend, una SPA en Angular como cliente para la administración de la tienda y PostgreSQL como base de datos alojada en Supabase. Implementé autenticación, CRUD y comunicación entre servicios por HTTP.
 
+Se esta implementando un frontend con Next.js para compras en línea enfocado al cliente, mientras que el frontend con Angular es para la administración de la tienda. Se usará el mismo backend con Spring Boot y la misma base de datos en Supabase para ambos frontends, habrá diferentes rutas apuntando a cada uno.
 <p align="center">
   <a href="https://github.com/Erik-Bot23/Compras_Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
@@ -74,9 +75,8 @@ Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando
 
 ---
 
-Página de novios
-API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
-
+<h2>Página de novios</h2>
+Página web personal dedicada a mi novia hecha con JavaScript, HTML y CSS puro. Incluye animaciones, detalles interactivos y diseño responsive. Me sirvió para practicar manipulación del DOM, animaciones con CSS y buenas prácticas de diseño web.
 <p align="center">
   <a href="https://github.com/Erik-Bot23/Pagina-de-novios.git" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
@@ -85,9 +85,8 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 
 ---
 
-CRUD en Python
-Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
-
+<h2>CRUD en Python</h2>
+Pequeño proyecto en Python para agendar contactos y eventos, con almacenamiento en una base de datos PostgreSQL. Incluye funcionalidades de agregar, editar, eliminar y listar contactos y eventos. Me ayudó a mejorar mis habilidades en Python y SQL.
 <p align="center">
   <a href="https://github.com/Erik-Bot23/Agenda-de-contactos.git" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
@@ -96,9 +95,8 @@ Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adap
 
 ---
 
-Proyecto de compras orientado a una tienda
-API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
-
+<h2>Proyecto de compras orientado a una tienda</h2>
+API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)Esta aplicación esta en proceso, se usará para gestionar ventas enfocadas a un establecimiento de comida y tomará como base el proyecto de ventas para tienda, el cual se refactorizará para adaptarse a las necesidades de un restaurante; tanto el backend con Spring Boot como el frontend con Angular. Y se implementará un frontend con Next.js para compras en línea enfocado al cliente. mientras que el frontend con Angular seguirá siendo para la administración, en esta caso del restaurante.
 <p align="center">
   <a href="https://github.com/Erik-Bot23/Ventas_Backend.git" target="_blank">
     <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
