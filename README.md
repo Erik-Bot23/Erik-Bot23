@@ -19,17 +19,17 @@
   </a>
 </p>
 
-## 👨‍💻 Sobre mí
+Sobre mí
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
 
-- 🔭 Actualmente trabajando con **Java (Spring Boot)** en backend, **Angular** y **Next.js** en frontend.
-- 🗄️ Persistencia de datos con **PostgreSQL** y **Supabase**.
-- ⚙️ DevOps con **Git, GitHub, Docker y Postman**.
-- 🌱 Explorando constantemente el ecosistema de **Next.js + Supabase** para proyectos full stack modernos.
-- 💬 Abierto a colaborar en proyectos open source o freelance.
+- Actualmente trabajando con **Java (Spring Boot)** en backend, **Angular** y **Next.js** en frontend.
+- Persistencia de datos con **PostgreSQL** y **Supabase**.
+- DevOps con **Git, GitHub, Docker y Postman**.
+- Explorando constantemente el ecosistema de **Next.js + Supabase** para proyectos full stack modernos.
+- Abierto a colaborar en proyectos open source o freelance.
 
-## 🛠️ Lenguajes y herramientas
+Lenguajes y herramientas
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -50,9 +50,9 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-## 🚀 Proyectos destacados
+Proyectos destacados
 
-### 🐍 CRUD en Python
+CRUD en Python
 Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
 
 <p>
@@ -63,7 +63,7 @@ Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adap
 
 ---
 
-### 🌐 [Nombre de tu proyecto Next.js]
+Frontend para compras en línea
 Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando tengas el proyecto listo.)
 
 <p>
@@ -77,7 +77,7 @@ Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando
 
 ---
 
-### ☕ [Proyecto Spring Boot]
+Backend para compras
 API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
 
 <p>
@@ -86,14 +86,14 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
   </a>
 </p>
 
-## 📊 Estadísticas de GitHub
+Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErikSvardook&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSvardook&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
 
-## 📫 Contacto
+Contacto
 
 <p align="center">
   ¿Tienes un proyecto en mente o quieres colaborar? Escríbeme:
