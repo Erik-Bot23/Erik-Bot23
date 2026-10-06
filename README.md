@@ -50,8 +50,9 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
-<img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
+</h2>
 
 CRUD en Python
 Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
