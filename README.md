@@ -52,6 +52,7 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
+
 <h2 align="center">
   <img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
 </h2>
@@ -59,21 +60,38 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 CRUD en Python
 Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
 
-<p>
+<p align="center">
   <a href="https://github.com/ErikSvardook/crud_python" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
 
 ---
 
-Frontend para compras en línea
+Proyecto de compras orientado a un establecimiento de comida
 Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando tengas el proyecto listo.)
 
-<p>
+<p align="center">
   <a href="https://TU_DEMO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo"/>
+    <img src="https://img.shields.io/badge/DEMO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
+  </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
+  </a>
+</p>
+
+---
+
+Proyecto de compras orientado a una tienda
+API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
+
+<p align="center">
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
     <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
@@ -81,10 +99,10 @@ Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando
 
 ---
 
-Backend para compras
+Página de novios
 API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
 
-<p>
+<p align="center">
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
     <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
