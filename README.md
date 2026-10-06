@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Erik Jarquín Sánchez 👋</h1>
+<h1 align="center">Hola, soy Erik Jarquín Sánchez</h1>
 
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
