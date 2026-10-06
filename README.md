@@ -19,7 +19,9 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Sobre mí" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Sobre mí" />
+</h2>
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
 
@@ -96,8 +98,9 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
   <img src="https://github-readme-stats.vercel.app/api?username=ErikSvardook&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSvardook&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
-
-<img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
+</h2>
 
 <p align="center">
   ¿Tienes un proyecto en mente o quieres colaborar? Escríbeme:
