@@ -26,7 +26,7 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 - Persistencia de datos con **PostgreSQL** y **Supabase**.
 - DevOps con **Git, GitHub, Docker y Postman**.
 - Explorando constantemente el ecosistema de **Next.js + Supabase** para proyectos full stack modernos.
-- Abierto a colaborar en proyectos open source o freelance.
+- Otras tecnologías que también manejo son JavaScript, Python, HTML y CSS
 
 
 <h2 align="center">
