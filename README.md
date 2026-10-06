@@ -14,13 +14,10 @@
   <a href="mailto:TU_CORREO@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/ErikSvardook" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=pinia&logoColor=white" alt="Sobre mí" />
+  <img src="https://img.shields.io/badge/Sobre_mí-FF5722?style=for-the-badge&logo=pinia&logoColor=white" alt="Sobre mí" />
 </h2>
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
@@ -33,7 +30,7 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-87CEFA?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Lenguajes y herramientas"/>
+  <img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-FF5722?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Lenguajes y herramientas"/>
 </h2>
 
 <p align="center">
@@ -62,7 +59,7 @@ Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adap
 
 <p align="center">
   <a href="https://github.com/ErikSvardook/crud_python" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
   </a>
 </p>
 
@@ -73,16 +70,16 @@ Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando
 
 <p align="center">
   <a href="https://TU_DEMO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/DEMO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-ADFF2F?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
@@ -109,13 +106,14 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 </p>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Estadísticas_de_GitHub-9370D8?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" /> 
+  <img src="https://img.shields.io/badge/Estadísticas_de_GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" /> 
 </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErikSvardook&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSvardook&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
+
 <h2 align="center">
   <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
 </h2>
