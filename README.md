@@ -54,43 +54,21 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
 </h2>
 
-CRUD en Python
-Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
-
-<p align="center">
-  <a href="https://github.com/ErikSvardook/crud_python" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
-  </a>
-</p>
-
----
-
 Proyecto de compras orientado a un establecimiento de comida
 Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando tengas el proyecto listo.)
 
 <p align="center">
   <a href="https://TU_DEMO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/SPRING-BOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
-  </a>
-</p>
-
----
-
-Proyecto de compras orientado a una tienda
-API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
-
-<p align="center">
-  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
@@ -101,7 +79,38 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 
 <p align="center">
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
-    <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+  </a>
+</p>
+
+---
+
+CRUD en Python
+Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
+
+<p align="center">
+  <a href="https://github.com/ErikSvardook/crud_python" target="_blank">
+    <img src="https://img.shields.io/badge/PYTHON-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+  </a>
+</p>
+
+---
+
+Proyecto de compras orientado a una tienda
+API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto real.)
+
+<p align="center">
+  <a href="https://TU_DEMO.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/SPRING-BOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+  </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
+  </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/NEXT.JS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Next.js"/>
+  </a>
+  <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/DOCKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Docker"/>
   </a>
 </p>
 
