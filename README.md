@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Sobre mí" />
+<img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Sobre mí" />
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
 
