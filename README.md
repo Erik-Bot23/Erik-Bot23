@@ -59,7 +59,7 @@ Descripción breve de qué hace y qué problema resuelve. (Reemplaza esto cuando
 
 <p align="center">
   <a href="https://TU_DEMO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/SPRING-BOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
@@ -101,7 +101,7 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 
 <p align="center">
   <a href="https://TU_DEMO.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/SPRING-BOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/SPRINGBOOT-181717?style=for-the-badge&logo=github&logoColor=white" alt="Spring Boot"/>
   </a>
   <a href="https://github.com/ErikSvardook/TU_REPO" target="_blank">
     <img src="https://img.shields.io/badge/ANGULAR-181717?style=for-the-badge&logo=github&logoColor=white" alt="Angular"/>
