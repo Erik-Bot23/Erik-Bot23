@@ -23,13 +23,13 @@ Sobre mí
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
 
-- Actualmente trabajando con **Java (Spring Boot)** en backend, **Angular** y **Next.js** en frontend.
+- Actualmente estoy trabajando con **Java (Spring Boot)** en backend, **Angular** y **Next.js** en frontend.
 - Persistencia de datos con **PostgreSQL** y **Supabase**.
 - DevOps con **Git, GitHub, Docker y Postman**.
 - Explorando constantemente el ecosistema de **Next.js + Supabase** para proyectos full stack modernos.
 - Abierto a colaborar en proyectos open source o freelance.
 
-Lenguajes y herramientas
+<img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-000000?style=for-the-badge&logo=screwdriverwrench&logoColor=white" alt="Lenguajes y herramientas" />Lenguajes y herramientas
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
