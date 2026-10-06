@@ -19,7 +19,7 @@
   </a>
 </p>
 
-Sobre mí
+<img src="https://img.shields.io/badge/Sobre_mí-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Sobre mí" />
 
 Desarrollador **full stack** enfocado en construir productos web completos, desde la base de datos hasta la interfaz. Me gusta escribir código limpio, aprender herramientas nuevas y convertir ideas en aplicaciones funcionales.
 
@@ -28,6 +28,8 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 - DevOps con **Git, GitHub, Docker y Postman**.
 - Explorando constantemente el ecosistema de **Next.js + Supabase** para proyectos full stack modernos.
 - Abierto a colaborar en proyectos open source o freelance.
+
+
 <h2 align="center">
   <img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-87CEFA?style=for-the-badge&logo=screwdriverwrench&logoColor=white" alt="Lenguajes y herramientas"/>
 </h2>
@@ -49,7 +51,7 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-Proyectos destacados
+<img src="https://img.shields.io/badge/Proyectos_Destacados-FF5722?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos destacados" />
 
 CRUD en Python
 Programa básico para agregar, actualizar, eliminar y ver usuarios. Código adaptable y fácil de extender.
@@ -85,14 +87,14 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
   </a>
 </p>
 
-Estadísticas de GitHub
+<img src="https://img.shields.io/badge/Estadísticas_de_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErikSvardook&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSvardook&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
 
-Contacto
+<img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto" />
 
 <p align="center">
   ¿Tienes un proyecto en mente o quieres colaborar? Escríbeme:
@@ -105,5 +107,5 @@ Contacto
 </p>
 
 <p align="center">
-  <i>Gracias por visitar mi perfil ✨</i>
+  <i>Gracias por visitar mi perfil </i>
 </p>
