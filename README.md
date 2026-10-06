@@ -31,7 +31,7 @@ Desarrollador **full stack** enfocado en construir productos web completos, desd
 
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-87CEFA?style=for-the-badge&logo=screwdriverwrench&logoColor=white" alt="Lenguajes y herramientas"/>
+  <img src="https://img.shields.io/badge/Lenguajes_y_Herramientas-87CEFA?style=for-the-badge&logo=setuptools&logoColor=white" alt="Lenguajes y herramientas"/>
 </h2>
 
 <p align="center">
