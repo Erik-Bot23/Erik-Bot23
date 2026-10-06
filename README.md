@@ -87,7 +87,9 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Estadísticas_de_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/Estadísticas_de_GitHub-9ACD32?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" /> 
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErikSvardook&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
