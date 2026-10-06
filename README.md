@@ -88,7 +88,7 @@ API REST construida con Spring Boot y PostgreSQL. (Reemplaza con tu proyecto rea
 </p>
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/Estadísticas_de_GitHub-9ACD32?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" /> 
+  <img src="https://img.shields.io/badge/Estadísticas_de_GitHub-9370D8?style=for-the-badge&logo=github&logoColor=white" alt="Estadísticas de GitHub" /> 
 </h2>
 
 <p align="center">
